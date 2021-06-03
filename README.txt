@@ -3,7 +3,7 @@ Running the Nxt software:
 Dependencies: Java 8 or later needs to be installed first. Oracle JVM gives
 better performance and has been more tested, but OpenJDK is also supported.
 
-
+test
 Using the installer:
 
 An IzPack based installation package is provided. Click on the corresponding
